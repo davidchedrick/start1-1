@@ -1,9 +1,10 @@
 import "./App.css";
+import LogIn from "./features/start/LogIn";
 
 function App() {
     return (
         <div className="App">
-            <h1>cat</h1>
+            <LogIn />
         </div>
     );
 }
