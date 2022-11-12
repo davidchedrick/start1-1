@@ -8,7 +8,6 @@ const LogIn = () => {
 
     function handleSubmit(event) {
         event.preventDefault();
-        console.log("cat");
     }
 
     return (
